@@ -7,7 +7,7 @@ My Contact Info:
 * E-mail: e.accounted@gmal.com
 * GitHub: evgeniya-burlachenko
 * Telegram evgeniyaby
-* [Resume Habr]("https://career.habr.com/evgeniya-burlachenko1")
+* Habr: evgeniya-burlachenko1;
 
 ***
 
