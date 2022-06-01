@@ -13,7 +13,7 @@ My Contact Info:
 
 ## About Me
 
-In 2020 I started learning web development.
+I have been learning frontend development since 2021.
 
 I am a student of Ecole 42 programming school.
 
