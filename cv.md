@@ -28,7 +28,7 @@ My goal is to find a job as a Web developer.
 * Full immersion in the essence of the problems
 * Diligence
 * Team playing
-* Keep learning…
+* Keep learning
 
 ### Hard skills:
 * HTML/CSS;
@@ -92,5 +92,3 @@ Russian - native speaker.
 
 English - B1 
 ***
-***
-
