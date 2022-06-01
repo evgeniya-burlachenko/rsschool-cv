@@ -24,11 +24,11 @@ My goal is to find a job as a Web developer.
 
 ### Soft skills:
 
-* Quick learner
-* Full immersion in the essence of the problems
-* Diligence
-* Team playing
-* Keep learning
+* Quick learner;
+* Full immersion in the essence of the problems;
+* Diligence;
+* Team playing;
+* Keep learning;
 
 ### Hard skills:
 * HTML/CSS;
@@ -70,9 +70,9 @@ counters.forEach(counter => {
 * Creation of a WordPress site for a food delivery company bumedy.ru;
 
 2011 - 2018 Russian dirrect investment fund
-* accountant/economist
-* preparation of financial statements
-* budgeting
+* accountant/economist;
+* preparation of financial statements;
+* budgeting;
 
 ***
 ## Education
@@ -80,15 +80,15 @@ counters.forEach(counter => {
 
 PLEKHANOV Russian University of Economics
 
-Bachelor of Economics
+Bachelor of Economics;
 * 2010-2011
 
 PLEKHANOV Russian University of Economics
 
-specialty accounting analysis and audit
+specialty accounting analysis and audit;
 ***
 ## Languages
 Russian - native speaker.
 
-English - B1 
+English - B1.
 ***
