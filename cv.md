@@ -19,6 +19,7 @@ I am a student of Ecole 42 programming school.
 
 My goal is to find a job as a Web developer.
 >"Action is the foundational key to all success".
+
 ***
 ## Skills 
 
@@ -39,6 +40,7 @@ My goal is to find a job as a Web developer.
 * Functional programming;
 * Db & Data;
 * Unix;
+
 ***
 ## Code Examples
 
@@ -86,9 +88,11 @@ Bachelor of Economics;
 PLEKHANOV Russian University of Economics
 
 specialty accounting analysis and audit;
+
 ***
 ## Languages
 Russian - native speaker.
 
 English - B1.
+
 ***
