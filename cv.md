@@ -79,12 +79,18 @@ counters.forEach(counter => {
 * 2004-2010
 
 PLEKHANOV Russian University of Economics
+
 Bachelor of Economics
 * 2010-2011
 
 PLEKHANOV Russian University of Economics
+
 specialty accounting analysis and audit
+***
 ## Languages
 Russian - native speaker.
 
 English - B1 
+***
+***
+
