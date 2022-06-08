@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="icon" href="assets/favicon.ico">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet">
+	<title>cv</title>
+</head>
+
+<body>
+	<!-- header -->
+	<header class="header">
+		<div class="container">
+			<nav class="nav">
+				<div class="navbar-wrap">
+					<div class="icon">
+						<div class="icon-field" id="icon">
+							<span class="line line1"></span>
+							<span class="line line2"></span>
+							<span class="line line3"></span>
+						</div>
+					</div>
+					<ul class="nav-list" id="nav">
+						<li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+						<li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
+						<li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+						<li class="nav-item"><a href="#work" class="nav-link">Work</a></li>
+						<li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>
+						<li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+						<li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
+					</ul>
+				</div>
+			</nav>
+		</div>
+	</header>
+	<div class="popup" id="popup"></div>
+	<!-- end header -->
+	<!-- main -->
+	<main class="main">
+		<div class="container main-container">
+			<!-- profile -->
+			<section class="section section-profile" id="profile">
+				<img src="./assets/img/image.jpeg" alt="my photo" class="section section-profile-photo">
+				<div class="section-profile-title">
+					<h1 class="section-title main-title">BURLACHENKO EVGENIYA</h1>
+					<h3 class="section-subtitle-profile">WEB-DEVELOPER</h3>
+				</div>
+			</section>
+			<!-- contacts -->
+			<section class="section" id="contacts">
+				<h2 class="section-title">Contacts</h2>
+				<ul class="section-list">
+					<li class="section-item contact-item">
+						Moscow, Russia
+					</li>
+					<li class="section-item contact-item">
+						Phone: <a href="mailto:+79163759114" title="phone">+7 916 375-91-14</a>
+					</li>
+					<li class="section-item contact-item">
+						Email: <a href="mailto:e.accounted@gmal.com" title="email">e.accounted@gmal.com</a>
+					</li>
+					<li class="section-item contact-item">
+						Github: <a href="https://github.com/evgeniya-burlachenko"
+							title="github">evgeniya-burlachenko</a>
+					</li>
+					<li class="section-item contact-item">
+						Telegram: <a href="https://t.me/evgeniyaby" title="github">@evgeniyaby</a>
+					</li>
+					<li class="section-item contact-item">
+						Habr: <a href="https://Habr.com/evgeniya-burlachenko1" title="habr">evgeniya-burlachenko1</a>
+					</li>
+				</ul>
+			</section>
+			<!-- summary -->
+			<section class="section" id="summary">
+				<h2 class="section-title">SUMMARY</h2>
+				<p class="section-summary">I like programming.
+					I have been learning frontend development since 2021.
+					I am a student of Ecole 42 programming school.
+					My goal is to find a job as a Web developer.
+					"Action is the foundational key to all success".
+				</p>
+			</section>
+			<!-- skills -->
+			<section class="section" id="skills">
+				<h2 class="section-title">SKILLS</h2>
+				<h3 class="section-subtitle section-subtitle-skills">Soft skills</h3>
+				<ul class="section-list">
+					<li class="section-item">
+						Quick learner;
+					</li>
+					<li class="section-item">
+						Full immersion in the essence of the problems;
+					</li>
+					<li class="section-item">
+						Diligence;
+					</li>
+					<li class="section-item">
+						Teamwork;
+					</li>
+					<li class="section-item">
+						Keep learning;
+					</li>
+				</ul>
+				<h3 class="section-subtitle section-subtitle-skills">Hard skills</h3>
+				<ul class="section-list">
+					<li class="section-item">
+						HTML/CSS;
+					</li>
+					<li class="section-item">
+						JavaScript/React;
+					</li>
+					<li class="section-item">
+						C, C++, Java;
+					</li>
+					<li class="section-item">
+						Objet-oriented programming;
+					</li>
+					<li class="section-item">
+						Network & system administration;
+					</li>
+					<li class="section-item">
+						Functional programming;
+					</li>
+					<li class="section-item">
+						Db & Data;
+					</li>
+					<li class="section-item">
+						Unix;
+					</li>
+				</ul>
+			</section>
+			<!-- code example -->
+			<section class="section" id="code">
+				<h2 class="section-title">Code example</h2>
+				<pre class="pre section-p"><code>
+
+function highAndLow(numbers){
+	var numArray = 
+		numbers.split(" ");
+	var min = 
+	Math.min.apply(null, numArray);
+	var max = 
+	Math.max.apply(null, numArray);
+	 return (max + " " + min);
+  }
+				</code></pre>
+			</section>
+			<!-- work expirience -->
+			<section class="section" id="work">
+				<h2 class="section-title">Work experience</h2>
+				<h3 class="section-subtitle section-subtitle-work">2020 - 2021 Freelance</h3>
+				<ul class="section-list">
+					<li class="section-item">Created SPA for helmda-systems.com;</li>
+					<li class="section-item">Created of a WordPress site for a food delivery company bumedy.ru;</li>
+				</ul>
+				<h3 class="section-subtitle section-subtitle-work">2011 - 2018 Russian dirrect investment fund</h3>
+				<ul class="section-list">
+					<li class="section-item">Accountant/economist;</li>
+					<li class="section-item">Preparing financial reports;</li>
+					<li class="section-item">Preparing and planning budget</li>
+				</ul>
+			</section>
+			<!-- projects -->
+			<section class="section" id="projects">
+				<h2 class="section-title">Projects</h2>
+				<ul class="section-list">
+					<li class="section-item"><a href="https://github.com/evgeniya-burlachenko/pet_mini_js" class="project-item">Pet-projects JS;</a></li>
+					<li class="section-item"><a href="#raycasting" class="project-item">Cub3D: Raycasting on the example of the creation of the game Wolfenstein;</a></li>
+					<li class="section-item"><a href="https://github.com/evgeniya-burlachenko/fract-ol" class="project-item">Fract-ol: Fractal on the minilibx library;</a></li>
+					<li class="section-item"><a href="https://github.com/evgeniya-burlachenko/philosophers" class="project-item">Philosophers: Implemented the task of dining philosophers in C;</a></li>
+					<li class="section-item"><a href="#minishell" class="project-item">Minishell: Bash based command interpreter;</a></li>
+					<li class="section-item"><a href="https://github.com/evgeniya-burlachenko/push_swap" class="project-item">Push-swap: Stack sorting in the minimum number of operations;</a></li>
+					<li class="section-item"><a href="#java" class="project-item">Bootcamp Java(Piscine);</a></li>
+					<li class="section-item"><a href="#c" class="project-item">Bootcamp C(Piscine);</a></li>
+					<li class="section-item"><a href="#c++" class="project-item">Bootcamp C++;</a></li>
+				</ul>
+			</section>
+			<!-- education -->
+			<section class="section section-education" id="education">
+				<h2 class="section-title">Education</h2>
+				<h3 class="section-subtitle section-subtitle-education">started in 2021 up to present</h3>
+				<p class="section-p">Association Ecole 42</p>
+				<p>Programming</p>
+				<h3 class="section-subtitle section-subtitle-education">April-September 2020</h3>
+				<p class="section-p">Educational center Professional</p>
+				<p>Programming in Web development courses </p>
+				<h3 class="section-subtitle section-subtitle-education">2010-2011</h3>
+				<p class="section-p">PLEKHANOV Russian University of Economics</p>
+				<p>Degree in economics;</p>
+				<p>specialization accounting analysis and audit</p>
+				<h3 class="section-subtitle section-subtitle-education">2004-2010</h3>
+				<p class="section-p">PLEKHANOV Russian University of Economics</p>
+				<p>Bachelor’s degree in economics;</p>
+			</section>
+			<!-- languages -->
+			<section class="section section-languages" id="languages">
+				<h2 class="section-title">Languages</h2>
+				<p class="section-item">B1 - Pre-Intermediate</p>
+			</section>
+		</div>
+	</main>
+	<!-- footer -->
+	<footer class="footer">
+		<div class="container footer-container ">
+			<div class="section section-footer-githab">
+				<a  href="https://github.com/evgeniya-burlachenko" class="github nav-link github-footer">
+					EVGENIYA BURLACHENKO</a>
+			</div>
+			<div class="section section-rss">
+				<a href="https://rs.school/js/" class="rss">
+					<img src="https://rs.school/images/rs_school_js.svg" alt="my photo" width="150" height="150"
+						class="">
+				</a>
+			</div>
+		</div>
+		<div class="footer-year">
+			<p class="">Copyright @2022. All Rights Reserved</p>
+		</div>
+	</footer>
+	<!-- end footer -->
+	<script src="script.js"></script>
+</body>
+</html>
