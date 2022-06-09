@@ -27,7 +27,6 @@ html {
 }
 .footer{
 	width: 100%;
-	background-image: linear-gradient(to right,#829985, #aabdac);
 }
  .footer-container {
 	display: flex;
@@ -61,6 +60,7 @@ html {
 .main-container{
 	display: flex;
 	flex-wrap: wrap;
+	justify-content: space-between;
 }
 .main-title{
 	position: relative;
@@ -164,6 +164,7 @@ html {
 	border-bottom: 1px solid #829985;
 }
 .section-footer-githab{
+	text-align: center;
 	border-bottom: 1px solid #829985;
 
 }
@@ -193,7 +194,7 @@ html {
 	display: inline;
 	width: 100%;
 	text-align: center;
-	color: #fff;
+	color: rgb(0, 0, 0);
 	margin-top: 10px;
 	margin-bottom: 10px;
 	margin-left: 20px;
@@ -253,9 +254,9 @@ html {
 	.icon-field{
 		margin: 0;
 	}
-	/* body.noscroll{
+	body.noscroll{
 		overflow: hidden;
-	} */
+	}
 
 }
 @media(max-width:768px){
@@ -326,11 +327,7 @@ html {
 	.icon-field.active .line3 {
 		transform: rotate(765deg) translateY(-5.5px);
 	}
-	/* body.noscroll{
+	body.noscroll{
 		overflow: hidden;
-	} */
-
-	.section-footer{
-		width: 100%;
 	}
 }
