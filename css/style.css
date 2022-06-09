@@ -254,10 +254,9 @@ html {
 	.icon-field{
 		margin: 0;
 	}
-	body.noscroll{
+	/* body.noscroll{
 		overflow: hidden;
-	}
-
+	} */
 }
 @media(max-width:768px){
 	.section{
@@ -327,7 +326,7 @@ html {
 	.icon-field.active .line3 {
 		transform: rotate(765deg) translateY(-5.5px);
 	}
-	body.noscroll{
+	/* body.noscroll{
 		overflow: hidden;
-	}
+	}*/
 }
